@@ -147,3 +147,5 @@ image::aws/scaling/aws-ec2-couchbase-server-auto-scaling-group-updated.png[,570]
 . On a different browser tab, you can log in to the Couchbase Server Web Console to see the additional server nodes that were added to your cluster.
 +
 image::aws/scaling/aws-couchbase-web-console-servers-after-scaling.png[,570]
+
+Abandon this change
